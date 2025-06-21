@@ -2,4 +2,4 @@
 
 ## Acknowledgement
 
-Framework of the assignments were forked from <a href="https://github.com/slicol/Games101-Homework-Win" target="_blank">Games101-Homework-Win</a>.
+Framework of the assignments was cloned from <a href="https://github.com/slicol/Games101-Homework-Win" target="_blank">Games101-Homework-Win</a>.
